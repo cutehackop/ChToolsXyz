@@ -1,3 +1,4 @@
+GNU nano 7.2                            main.py
 import time
 import sys
 from colorama import init, Fore, Style
@@ -7,12 +8,13 @@ init()
 
 # ASCII art for cutehack v2 in yellow
 ascii_art = f"""
-{Fore.RED} ______     __  __        ______   ______     ______     __         ______    
-/\  ___\   /\ \_\ \      /\__  _\ /\  __ \   /\  __ \   /\ \       /\  ___\   
-\ \ \____  \ \  __ \     \/_/\ \/ \ \ \/\ \  \ \ \/\ \  \ \ \____  \ \___  \  
- \ \_____\  \ \_\ \_\       \ \_\  \ \_____\  \ \_____\  \ \_____\  \/\_____\ 
-  \/_____/   \/_/\/_/        \/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
-                                                                              
+{Fore.RED} ______     __  __        ______   ______     ______     __         ______
+/\  ___\   /\ \_\ \      /\__  _\ /\  __ \   /\  __ \   /\ \       /\  ___\
+\ \ \____  \ \  __ \     \/_/\ \/ \ \ \/\ \  \ \ \/\ \  \ \ \____  \ \___  \
+ \ \_____\  \ \_\ \_\       \ \_\  \ \_____\  \ \_____\  \ \_____\  \/\_____\
+  \/_____/   \/_/\/_/        \/_/   \/_____/   \/_____/   \/_____/   \/_____/
+{Fore.WHITE}---------share us for upgrade this tool--- this was made by @teamXcutehack
+must join telegram channel thanks---                                                   >
 {Style.RESET_ALL}
 """
 
@@ -21,8 +23,7 @@ tool_names = [
     f"{Fore.GREEN}Tool 1{Style.RESET_ALL}",
     f"{Fore.GREEN}Tool 2{Style.RESET_ALL}",
     f"{Fore.GREEN}Tool 3{Style.RESET_ALL}",
-    f"{Fore.GREEN}Tool 4{Style.RESET_ALL}",
-    f"{Fore.GREEN}Tool 5{Style.RESET_ALL}",
+    f"{Fore.GREEN}Tool 4{Style.RESET_ALL}",                                                 f"{Fore.GREEN}Tool 5{Style.RESET_ALL}",
     f"{Fore.GREEN}Tool 6{Style.RESET_ALL}",
     f"{Fore.GREEN}Tool 7{Style.RESET_ALL}",
     f"{Fore.GREEN}Tool 8{Style.RESET_ALL}",
